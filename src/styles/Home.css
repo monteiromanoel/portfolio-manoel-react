@@ -1,0 +1,44 @@
+.icon {
+    transition: 0.2s ease;
+    padding: 10px 12px !important;
+}
+
+.icon:hover {
+    color: white !important;
+    background-color: #BF5656;
+    border-radius: 5px !important;
+    padding: 10px 12px !important;
+
+}
+
+.hello {
+    font-size: 16px;
+    letter-spacing: 2px;
+    text-decoration: none;
+    text-transform: uppercase;
+    width: fit-content;
+    background-color: #BF5656;
+    color: rgb(8, 8, 8);
+    border: 3px solid;
+    padding: 0.25em 0.5em;
+    box-shadow: 1px 1px 0px 0px, 2px 2px 0px 0px, 3px 3px 0px 0px, 4px 4px 0px 0px, 5px 5px 0px 0px;
+    position: relative;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+}
+
+.helloText {
+    color: black;
+    font-weight: bolder;
+    font-size: 16px;
+}
+
+.shadowImage {
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+    transition: 0.5s ease;
+}
+
+.shadowImage:hover {
+    box-shadow: none;
+}

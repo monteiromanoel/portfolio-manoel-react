@@ -1,0 +1,7 @@
+.map-image {
+    background-image: url("../../public/static/image/map-color-overlay.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0 auto;
+    background-position: center center;
+}
