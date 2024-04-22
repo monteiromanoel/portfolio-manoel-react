@@ -1,0 +1,8 @@
+.nav-item,
+.nav-link {
+    color: black !important;
+}
+
+.nav-item:hover, .navbar-brand:hover {
+    text-decoration: underline !important;
+}

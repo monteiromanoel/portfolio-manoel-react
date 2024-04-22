@@ -1,1 +1,0 @@
-# portfolio-manoel-react
