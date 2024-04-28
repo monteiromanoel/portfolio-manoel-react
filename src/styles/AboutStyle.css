@@ -1,0 +1,34 @@
+.bgCard1 {
+    background: rgb(2,0,36);
+    background: #BF5656;
+    transition: var(--transition);
+  }
+  
+  .bgCard2 {
+    background-color: #BF5656;
+    transition: var(--transition);
+  }
+  
+  .bgCard3 {
+    background: rgb(2,0,36);
+    background: #BF5656;
+    transition: var(--transition);
+  }
+  
+  .bgCard1:hover, .bgCard2:hover, .bgCard3:hover{
+    transform: scale(1.05);
+    background-color: #5697BF;
+    cursor: default;
+  }
+  
+  .card-header {
+    padding: 20px!important;
+  }
+  
+  .linkEducation {
+    text-decoration: none;
+  }
+  
+  .linkEducation:hover {
+    text-decoration: underline;
+  }

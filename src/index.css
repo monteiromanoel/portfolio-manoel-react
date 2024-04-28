@@ -15,38 +15,6 @@
   font-family: var(--fontRoboto);
 }
 
-.bgCard1 {
-  background: rgb(2,0,36);
-  background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(32,45,115,1) 59%, rgb(0, 118, 141) 100%);
-  transition: var(--transition);
-}
-
-.bgCard2 {
-  background-color: #008ca8;
-  transition: var(--transition);
-}
-
-.bgCard3 {
-  background: rgb(2,0,36);
-  background: linear-gradient(270deg, rgba(2,0,36,1) 0%, rgba(32,45,115,1) 59%, rgba(0,140,168,1) 100%);
-  transition: var(--transition);
-}
-
-.bgCard1:hover, .bgCard2:hover, .bgCard3:hover{
-  transform: scale(1.05);
-}
-
-.card-header {
-  padding: 20px!important;
-}
-
-.linkEducation {
-  text-decoration: none;
-}
-
-.linkEducation:hover {
-  text-decoration: underline;
-}
 
 @media screen and (max-width: 1400px) {
   .divider-home {

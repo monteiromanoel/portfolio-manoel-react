@@ -8,7 +8,7 @@ function Education() {
                     <div className="col-md-6 col-xxs-1 col-xs-1">
                         <h3>
                             {" "}
-                            <i className="fa-solid fa-graduation-cap" /> Education
+                            <i className="fa-solid fa-graduation-cap" /> Educação
                         </h3>
                         <div className="card mb-2">
                             <div className="card-header">
@@ -17,7 +17,7 @@ function Education() {
                                 </h5>
                                 <h4>
                                     Análise e Desenvolvimento de Sistemas pela{" "}
-                                    <a href="https://unibtadigital.com.br/" className="linkEducation">
+                                    <a href="https://unibtadigital.com.br/" className="linkEducation" target="_blank" rel='noreferrer'>
                                         Universidade UniBTA Digital
                                     </a>
                                 </h4>
@@ -29,7 +29,7 @@ function Education() {
                                     universidade UniBTA, na modalidade EAD. Confira a matriz curricular{" "}
                                     <a
                                         href="https://docs.google.com/spreadsheets/d/1vIHzsPxK6iqaiOIjqjdalDsqxvVaclRiSjVPmiwkYBs/edit#gid=163249936"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         aqui
                                     </a>
@@ -51,7 +51,7 @@ function Education() {
                     </div>
                     <div className="col-md-6">
                         <div>
-                            <h3>Work Experience</h3>
+                            <h3>Experiência Profissional</h3>
                             <div>
                                 <div className="card">
                                     <div className="card-header">
@@ -60,7 +60,7 @@ function Education() {
                                             <a
                                                 href="http://www.iannistore.com.br"
                                                 target="_blank"
-                                                className="linkEducation"
+                                                className="linkEducation" rel='noreferrer'
                                             >
                                                 Iannistore
                                             </a>
@@ -87,7 +87,7 @@ function Education() {
                                                 base no custo e frete, com a possibilidade do usuário importar
                                                 uma tabela com dados e exportar outra com os cálculos prontos.
                                                 Veja ele{" "}
-                                                <a href="https://calculadora-marketplaces-ianni.vercel.app/">
+                                                <a href="https://calculadora-marketplaces-ianni.vercel.app/" target="_blank" rel='noreferrer'>
                                                     aqui
                                                 </a>
                                             </li>
@@ -119,7 +119,7 @@ function Education() {
                                     <a
                                         href="https://recodepro.org.br/"
                                         target="_blank"
-                                        className="linkEducation"
+                                        className="linkEducation" rel='noreferrer'
                                     >
                                         Recode Pro
                                     </a>{" "}
@@ -131,7 +131,7 @@ function Education() {
                                     <a
                                         href="https://www.cursoemvideo.com/curso/curso-de-git-e-github/"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Curso em Vídeo
                                     </a>{" "}
@@ -143,7 +143,7 @@ function Education() {
                                     <a
                                         href="https://www.cursoemvideo.com/curso/javascript/"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Curso em Vídeo
                                     </a>{" "}
@@ -155,7 +155,7 @@ function Education() {
                                     <a
                                         href="https://www.cursoemvideo.com/curso/html5-css3-modulo1/"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Curso em Vídeo
                                     </a>{" "}
@@ -167,7 +167,7 @@ function Education() {
                                     <a
                                         href="https://www.cursoemvideo.com/curso/bases-numericas/"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Curso em Vídeo
                                     </a>{" "}
@@ -179,7 +179,7 @@ function Education() {
                                     <a
                                         href="https://www.udemy.com/course/the-complete-web-development-bootcamp/"
                                         target="_blank"
-                                        className="linkEducation"
+                                        className="linkEducation" rel='noreferrer'
                                     >
                                         Colt Steele (Udemy)
                                     </a>{" "}
@@ -193,7 +193,7 @@ function Education() {
                                     <a
                                         href="https://www.cursoemvideo.com/curso/mysql/"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Curso em Vídeo
                                     </a>{" "}
@@ -205,7 +205,7 @@ function Education() {
                                     <a
                                         href="https://www.cursoemvideo.com/curso/curso-de-algoritmo/"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Curso em Vídeo
                                     </a>{" "}
@@ -218,7 +218,7 @@ function Education() {
                                     <a
                                         href="https://www.hashtagtreinamentos.com/curso-python"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Hashtag Treinamentos
                                     </a>{" "}
@@ -230,7 +230,7 @@ function Education() {
                                     <a
                                         href="https://recodepro.org.br"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Recode
                                     </a>
@@ -242,7 +242,7 @@ function Education() {
                                     <a
                                         href="https://recodepro.org.br"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         Recode
                                     </a>{" "}
@@ -254,7 +254,7 @@ function Education() {
                                     <a
                                         href="https://portalead.sp.senai.br/curso/78394/483/competencia-transversal-logica-de-programacao"
                                         className="linkEducation"
-                                        target="_blank"
+                                        target="_blank" rel='noreferrer'
                                     >
                                         SENAI
                                     </a>{" "}

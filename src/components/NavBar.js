@@ -7,7 +7,7 @@ import "bootstrap/dist/js/bootstrap.js";
 const NavBar = () => {
   return (
     <>
-      <nav className="navbar navbar-expand top-fixed bg-light mb-2">
+      <nav className="navbar navbar-expand top-fixed mb-2">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
             Home

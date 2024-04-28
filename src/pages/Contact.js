@@ -1,5 +1,5 @@
 import React from 'react';
-import '../styles/Contact.css';
+import '../styles/ContactStyle.css';
 import FormContact from '../components/FormContact';
 
 function Contact() {
@@ -52,6 +52,11 @@ function Contact() {
                                     </div>
                                 </div>
                             </div>
+
+                            <span className='my-3'></span>
+
+                            <h3>Ou me envie uma mensagem direta, ficarei feliz em responder <i class="fa-solid fa-arrow-turn-down"></i></h3>
+                            
                             <FormContact />
                             <div>
                                 <div className="mh-map">

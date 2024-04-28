@@ -1,5 +1,6 @@
 import React from 'react';
 import Education from './Education';
+import '../styles/AboutStyle.css';
 
 function About() {
     return (
@@ -28,7 +29,7 @@ function About() {
                                 <i className="fa fa-code iron-color" />
                                 <h3>Web Development</h3>
                                 <p>
-                                    Compreensão de problemas e desenvolvimento de soluções web completas
+                                    Compreensão de problemas e desenvolvimento de soluções web completas, seja utilizando API's, desenvolvimento direto ou Frameworks
                                 </p>
                             </div>
                         </div>
