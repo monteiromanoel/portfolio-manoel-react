@@ -80,7 +80,7 @@ function Home() {
                         <div className="hero-img">
                             <div>
                                 <img
-                                    src="https://images.unsplash.com/photo-1633332755192-727a05c4013d?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D"
+                                    src="https://i.postimg.cc/0QzXyTpP/photo1.jpg"
                                     alt=""
                                     className="img-fluid rounded-circle shadowImage imagePerson" id='imgPersonHome'
                                 />

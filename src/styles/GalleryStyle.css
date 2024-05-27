@@ -96,3 +96,7 @@
 .opacityOverlay {
   opacity: 90%;
 }
+
+.imgCarousel3 {
+  max-height: 492px!important ;
+}

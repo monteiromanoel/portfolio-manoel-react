@@ -45,7 +45,7 @@ function About() {
                             </div>
                         </div>
                         <div className="row my-4">
-                            <div className="col">
+                            <div className="col-md-6 mb-3">
                                 <h3>Habilidades Técnicas (Hard Skills)</h3>
                                 <div className="accordion" id="accordion-hard">
                                     <div className="accordion-item">
@@ -297,7 +297,7 @@ function About() {
                                     </div>
                                 </div>
                             </div>
-                            <div className="col">
+                            <div className="col-md-6">
                                 <h3>Habilidades Profissionais (Soft Skills)</h3>
                                 <ul className="list-group">
                                     <li className="list-group-item">Comunicação ativa</li>

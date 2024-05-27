@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import '../styles/NavBarStyles.css';
 import { Link } from "react-router-dom";
 import "bootstrap/dist/css/bootstrap.css";

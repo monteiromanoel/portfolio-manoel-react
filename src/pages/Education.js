@@ -1,4 +1,5 @@
-import React from 'react'
+import React from 'react';
+import '../styles/AboutStyle.css';
 
 function Education() {
     return (
@@ -12,7 +13,7 @@ function Education() {
                         </h3>
                         <div className="card mb-2">
                             <div className="card-header">
-                                <h5 className="text-secondary">
+                                <h5 className='subTitle'>
                                     <i className="fa-solid fa-user-graduate" /> Graduação
                                 </h5>
                                 <h4>
@@ -39,7 +40,7 @@ function Education() {
                         </div>
                         <div className="card mb-2">
                             <div className="card-header">
-                                <h5 className="text-secondary">
+                                <h5 className='subTitle'>
                                     <i className="fa-solid fa-language" /> Idiomas
                                 </h5>
                             </div>
@@ -107,7 +108,7 @@ function Education() {
                 </div>
                 <div className="card mb-2">
                     <div className="card-header">
-                        <h5 className="text-secondary">
+                        <h5 className='subTitle'>
                             <i className="fa-solid fa-award" /> Cursos Técnicos
                         </h5>
                     </div>
