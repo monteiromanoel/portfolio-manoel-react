@@ -227,7 +227,7 @@ function Projects() {
                                     Visite o sistema{" "}
                                     <div className='my-3'>
                                         <a
-                                            href="https://projeto-faculdade-final-7ti0c4b5c-manoels-projects-e10bb2df.vercel.app/"
+                                            href="https://sebo-livros.vercel.app/"
                                             target="_blank" rel="noreferrer" className='px-2'
                                         >
                                             Visitar <i class="fa-solid fa-arrow-up-right-from-square px-1"></i>
@@ -455,7 +455,7 @@ function Projects() {
                                     <div className='my-3'>
                                         Visite o sistema aqui:
                                         <a
-                                            href="https://calculadora-marketplaces-ianni-17r2407n6.vercel.app/"
+                                            href="https://calculadora-marketplaces-ianni.vercel.app/"
                                             target="_blank" rel="noreferrer" className='px-2'
                                         >
                                             Visitar <i class="fa-solid fa-arrow-up-right-from-square px-1"></i>
